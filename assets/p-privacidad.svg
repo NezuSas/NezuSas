@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 300 150" role="img" aria-label="Privacidad por diseño. Mínimo privilegio, cifrado donde corresponde y límites de confianza explícitos.">
+  <rect x="0.5" y="0.5" width="299" height="149" rx="18" fill="#17221C" stroke="#243029"/>
+  <g transform="translate(24,26)"><rect x="5" y="13" width="22" height="17" rx="4" fill="none" stroke="#D9542B" stroke-width="3"/><path d="M10 13 V9 a6 6 0 0 1 12 0 V13" fill="none" stroke="#D9542B" stroke-width="3"/><circle cx="16" cy="22" r="2.5" fill="#C9DF38"/></g>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="24" y="88" fill="#F3F4EE" font-size="17" font-weight="700">Privacidad por diseño</text>
+    <text x="24" y="110" fill="#A9B1A8" font-size="12.5">Mínimo privilegio, cifrado donde corresponde</text>
+    <text x="24" y="128" fill="#A9B1A8" font-size="12.5">y límites de confianza explícitos.</text>
+  </g>
+</svg>

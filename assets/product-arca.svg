@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-label="NEZU Arca. ['Bóveda local cifrada para credenciales y segundos factores', 'en Windows. Los datos nunca salen del equipo.', 'Disponible en Microsoft Store.']">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17221C"/><stop offset="1" stop-color="#0F1713"/></linearGradient>
+    <radialGradient id="g" cx="82%" cy="40%" r="50%"><stop offset="0" stop-color="#D9542B" stop-opacity="0.22"/><stop offset="1" stop-color="#D9542B" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="600" height="300" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)"><rect width="600" height="300" fill="url(#bg)"/><rect width="600" height="300" fill="url(#g)"/></g>
+  <rect x="0.5" y="0.5" width="599" height="299" rx="22" fill="none" stroke="#243029"/>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="28" y="48" fill="#D9542B" font-size="11" font-weight="700" letter-spacing="2.2">PRODUCTO · GESTIÓN DE CREDENCIALES</text>
+    <text x="28" y="92" fill="#F3F4EE" font-size="34" font-weight="800">NEZU Arca</text>
+    <text x="28" y="124" fill="#A9B1A8" font-size="15">Bóveda local cifrada para credenciales y segundos factores</text>
+    <text x="28" y="146" fill="#A9B1A8" font-size="15">en Windows. Los datos nunca salen del equipo.</text>
+    <text x="28" y="168" fill="#A9B1A8" font-size="15">Disponible en Microsoft Store.</text>
+    <rect x="28" y="238" width="57" height="26" rx="13" fill="#111A16" stroke="#243029"/><text x="57" y="255" text-anchor="middle" fill="#A9B1A8" font-size="11" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace">Python</text><rect x="93.2" y="238" width="50" height="26" rx="13" fill="#111A16" stroke="#243029"/><text x="118" y="255" text-anchor="middle" fill="#A9B1A8" font-size="11" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace">PyQt5</text><rect x="151.2" y="238" width="93" height="26" rx="13" fill="#111A16" stroke="#243029"/><text x="198" y="255" text-anchor="middle" fill="#A9B1A8" font-size="11" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace">AES-256-GCM</text><rect x="252.39999999999998" y="238" width="57" height="26" rx="13" fill="#111A16" stroke="#243029"/><text x="281" y="255" text-anchor="middle" fill="#A9B1A8" font-size="11" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace">Scrypt</text><rect x="317.59999999999997" y="238" width="43" height="26" rx="13" fill="#111A16" stroke="#243029"/><text x="339" y="255" text-anchor="middle" fill="#A9B1A8" font-size="11" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace">MSIX</text>
+  </g>
+  <g transform="translate(400,40)">
+    <!-- vault -->
+    <rect x="30" y="34" width="120" height="136" rx="14" fill="none" stroke="#D9542B" stroke-width="5"/>
+    <rect x="46" y="50" width="88" height="104" rx="8" fill="none" stroke="#C2461F" stroke-width="3" opacity="0.8"/>
+    <circle cx="90" cy="102" r="26" fill="none" stroke="#D9542B" stroke-width="5"/>
+    <g stroke="#C9DF38" stroke-width="4" stroke-linecap="round">
+      <line x1="90" y1="76" x2="90" y2="86"/><line x1="90" y1="118" x2="90" y2="128"/><line x1="64" y1="102" x2="74" y2="102"/><line x1="106" y1="102" x2="116" y2="102"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 90 102" to="360 90 102" dur="14s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="90" cy="102" r="7" fill="#C9DF38"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/></circle>
+    <rect x="18" y="190" width="146" height="26" rx="13" fill="#111A16" stroke="#243029"/><circle cx="34" cy="203" r="4" fill="#C9DF38"/>
+    <text x="46" y="207" fill="#A9B1A8" font-size="11" font-weight="700" letter-spacing="1" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">AES-256-GCM · LOCAL</text></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" role="img" aria-label="Hogares. Iluminación, clima, cortinas, seguridad y energía en viviendas con instalación profesional. Todo sigue funcionando sin internet.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#17221C"/><stop offset="1" stop-color="#0F1713"/></linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D9542B"/><stop offset="1" stop-color="#C9DF38"/></linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="399" height="229" rx="20" fill="url(#bg)" stroke="#243029"/>
+  <rect x="28" y="0" width="80" height="3" rx="1.5" fill="url(#top)"/>
+  <g transform="translate(28,30)"><path d="M12 40 L40 16 L68 40" fill="none" stroke="#D9542B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M20 36 V62 H60 V36" fill="none" stroke="#D9542B" stroke-width="4" stroke-linejoin="round"/>
+      <circle cx="40" cy="48" r="6" fill="#C9DF38"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle></g>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="120" y="52" fill="#7E877F" font-size="11" font-weight="700" letter-spacing="2">NEZU LIVING</text>
+    <text x="120" y="84" fill="#F3F4EE" font-size="26" font-weight="700">Hogares</text>
+    <text x="28" y="150" fill="#A9B1A8" font-size="14">Iluminación, clima, cortinas, seguridad y energía</text><text x="28" y="172" fill="#A9B1A8" font-size="14">en viviendas con instalación profesional.</text><text x="28" y="194" fill="#A9B1A8" font-size="14">Todo sigue funcionando sin internet.</text>
+  </g>
+</svg>
