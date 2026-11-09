@@ -73,7 +73,7 @@ Software propio, diseñado para funcionar en el sitio del cliente y bajo su cont
 
 ## Código abierto
 
-Lo que podemos compartir, lo compartimos. Los repositorios de producto son privados; si trabajas con nosotros y necesitas acceso, escríbenos.
+Lo que podemos compartir, lo compartimos: estas herramientas son gratuitas y las usamos en nuestros propios proyectos. Los productos son otra cosa: Atria se contrata con instalación y soporte, y Arca está en Microsoft Store. ¿Quieres que instalemos o adaptemos una de estas herramientas a tu caso? [Hablemos](https://nezuecuador.com/es/contacto).
 
 | Repositorio | Qué es |
 |---|---|
