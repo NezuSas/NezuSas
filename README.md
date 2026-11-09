@@ -82,7 +82,6 @@ Lo que podemos compartir, lo compartimos: estas herramientas son gratuitas y las
 | [intentflow-dashboard](https://github.com/NezuSas/intentflow-dashboard) | Panel administrativo del Nezu Intent Manager: estado de intenciones, dispositivos y actividad en tiempo real. Next.js. |
 | [adb-bridge](https://github.com/NezuSas/adb-bridge) | Servicio FastAPI en Docker que ejecuta comandos ADB sobre dispositivos Android por IP desde la red local. |
 | [nezu-cloudflared-runbook](https://github.com/NezuSas/nezu-cloudflared-runbook) | Runbook ejecutable para montar un túnel de Cloudflare con cloudflared, systemd y QUIC en una MiniPC. |
-| [grimbur](https://github.com/NezuSas/grimbur) | Grimbur: Cave of Clues, un roguelite de deducción para teléfonos en React Native y Expo. |
 
 <br>
 
